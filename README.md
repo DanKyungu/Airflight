@@ -35,6 +35,6 @@ So features is :
 
 # Database architecture
 
-![AirflightDbSchema](C:\Users\kyung\OneDrive\Documents\Development\Airflight\docs\AirflightDbSchema.png)
+![AirflightDbSchema](https://github.com/DanKyungu/Airflight/blob/master/docs/AirflightDbSchema.png?raw=true)
 
 
