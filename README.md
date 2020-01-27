@@ -3,7 +3,7 @@ Help users to book flights from a specific company directly on the phone
 
 
 
-# Explanation of the application
+# Application Description
 
 Our project flight Mobile app ensures the complete freedom for users, where user at their own system and can :
 Login to this app and can book their tickets	
@@ -25,8 +25,6 @@ So features is :
 
 **Registration module** After registering with us the passenger can logon to his/her own account and can view all flight details such as Timings, Prices, Availability of seats and can book the ticket with unique ticket id and gives its personal details. Once Passenger registered with us can book any number of tickets.
 
-
-
 **Passenger module** This module is meant for passengers, where a user logging into his/her owns account will view this panel. The major operations included in this module were :
 
 -  View all airline schedules, timings, fare details and seats availability.
@@ -37,6 +35,6 @@ So features is :
 
 # Database architecture
 
-
+![AirflightDbSchema](C:\Users\kyung\OneDrive\Documents\Development\Airflight\docs\AirflightDbSchema.png)
 
 
