@@ -7,9 +7,8 @@ Help users to book flights from a specific company directly on the phone
 
 Our project flight Mobile app ensures the complete freedom for users, where user at their own system and can :
 Login to this app and can book their tickets	
-Our proposed system allows only registered users to book the tickets	
-View timings and cancel their tickets
-In this Proposal the entire work is done on on-line and ticket with id is also provided for passengers as a print document. 
+Our proposed system allows only registered users to book the tickets, view timings and cancel their tickets.
+In this Proposal the entire work is done on-line and ticket with a specific id is provideded for passengers in numeric format with a barcode. 
 
 So features is :	
 
